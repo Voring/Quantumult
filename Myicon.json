@@ -3,16 +3,16 @@
   "description": "自定义图标订阅",
   "icons": [
     {
-      "name": "AttackOnTitan-1001",
-      "url": "https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/AttackOnTitan/AttackOnTitan-1001.png"
+      "name": "Adguard",
+      "url": "https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Myicon/Adguard.png"
     },
     {
-      "name": "AttackOnTitan-1083",
-      "url": "https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/AttackOnTitan/AttackOnTitan-1083.png"
+      "name": "Meituxiuxiu",
+      "url": "https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Myicon/Meituxiuxiu.png"
     },
     {
-      "name": "AttackOnTitan-1084",
-      "url": "https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/AttackOnTitan/AttackOnTitan-1084.png"
+      "name": "Picsew",
+      "url": "https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Myicon/Picsew.png"
     }
   ]
 }
